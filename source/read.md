@@ -1,1 +1,1 @@
-## This directory is mainly store some picture of this item
+## This directory is mainly store some pictures of this item
